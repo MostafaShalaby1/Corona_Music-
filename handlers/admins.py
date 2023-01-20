@@ -27,7 +27,7 @@ BUTTON = [
 
 ACTV_CALLS = []
 
-@Client.on_message(command(["mpause"]) & other_filters)
+@Client.on_message(command(["mpause", "شد ميوت"]) & other_filters)
 @errors
 @authorized_users_only
 async def pause(_, message: Message):
@@ -39,7 +39,7 @@ async def pause(_, message: Message):
     await message.delete()
 
 
-@Client.on_message(command(["mresume"]) & other_filters)
+@Client.on_message(command(["mresume", "فك ميوت"]) & other_filters)
 @errors
 @authorized_users_only
 async def resume(_, message: Message):
@@ -68,7 +68,7 @@ async def stop(_, message: Message):
     await message.delete()
     
 
-@Client.on_message(command(["mskip"]) & other_filters)
+@Client.on_message(command(["mskip", "هات اللي بعدو", "غير"]) & other_filters)
 @errors
 @authorized_users_only
 async def skip(_, message: Message):
