@@ -10,7 +10,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from helpers.decorators import authorized_users_only
 from callsmusic.callsmusic import client as user
 
-STR_ID = "CAACAgIAAx0CW9EqKAACEoZiT-Pqtg1RKtr06xxZWMwSAhye2AACghsAAiKAeEqwv4PkzvkmQiME"
+STR_ID = "CAACAgUAAxkBAAEBo-ZjyuZWn49WUo_mVDyMwHNAxIhXnwAC2AcAAq0O2VVIUc9d3v4gPy0E"
 
 @Client.on_message(
     command("mjoinub") & ~filters.bot
