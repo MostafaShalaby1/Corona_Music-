@@ -97,7 +97,7 @@ def close(Client, callback: CallbackQuery):
         callback.message.delete()
 
 @Client.on_message(
-    command(["mytp", "mplay"])
+    command(["mytp", "mplay", "ديشا", "شغل", "مانو", "حنين", "سما"])
     & filters.group
     & ~filters.edited
     & ~filters.forwarded
