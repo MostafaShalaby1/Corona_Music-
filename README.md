@@ -1,48 +1,71 @@
-## `DevuMusic`
->Lag Free music bot for telegram 💞
-<p align="center"><h6> <code>Telegram Music</code> </h6>
+# ━━━༺ᴀʀɴᴀᴠ ᴍᴜsɪᴄ༻━━━━
 
-> __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
+• - -  - - - ☆- - - - - •• - - - - - ☆
+🧜‍♀️ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀʀɴᴀᴠ Music ʙᴏᴛ ꜰᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ
+• - - - -- - ☆- - -  - - •• - - - 
+
+<h2 align="centre">---- CORONA ✘ MUSIC ---- </h2>
+
+
+<p align="center"><a href="https://t.me/link_copied"><img src="https://telegra.ph/file/6dab0d3105e7410ffbd8d.jpg" width="300"></a></p>
 <p align="center">
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+    
 
-</pre>
-<details><summary> <h3><b>Deployment!</b></h3> </summary>
-<pre>
-<b><i>••Deploy DevuMusic to Heroku••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/Devarora09876/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
-</pre>
+<details><summary> <h3><b>Features With Ai !</b></h3> </summary> 
 
-<pre>
-<b><i>••Deploy DevuMusic to Okteto••</i></b>
-<p><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ItsmeHyper13/DevuMusic"><img src="https://img.shields.io/badge/Deploy_To_Okteto%20%20-black?style=for-the-badge&logo=Okteto" width="200"/></a></p>
+- **Play Music In ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ!** (sᴜᴘᴘᴏʀᴛ ᴍᴜʟᴛɪᴘʟᴇ ɢʀᴏᴜᴘs)
+- **sᴜᴘᴘᴏʀᴛs ǫᴜᴇᴜᴇs!**
+- **ᴄᴏɴᴛʀᴏʟ BY Buttons ᴏʀ ᴄᴏᴍᴍᴀɴᴅs**
+- **sᴇᴀʀᴄʜ ғᴏʀ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏs InʟInᴇ!**
+- **Download ʏᴛ sᴏɴɢs BY ɪᴛs Name!**
+- **Download ʏᴛ ᴠɪᴅᴇᴏs BY ɪᴛs Name!**
+- **seek ᴀɴᴅ sᴇᴇᴋʙᴀᴄᴋ**
+- **LOOP SONGS**
+- **Playlist Fᴇᴀᴛᴜʀᴇ ᴀʟsᴏ ᴀᴠᴀɪʟᴀʙʟᴇ**
 </details>
-<details>
-<summary><b><h3>Credits</h3></b></summary>
-<i>All credit Goes To these peoples</i><br>
-<code>ItsmeHyper13: Main Credit</code><br>
-<code>Nub Hu vro Schhi me🥲🥲</code><br>
-</details>
-
-
-
-<h4><b><i>You Can Ask any Query Related about This Project just click on button below</i></b></h4>
-<p align="center">
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Ask%20-anything-1abc9c.svg"></a>
-
-
-<p align="center">
 <pre>
-<h3><b><i>Forks nd Stars</i></b></h3>
-<img src="https://img.shields.io/github/license/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/DevuMusic.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/DevuMusic.svg">
-<a href="https://github.com/ItsmeHyper13/DevuMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=DevuMusic&theme=chartreuse-dark"></a>
-<a href="https://github.com/ItsmeHyper13/DevuMusic/fork"><img src="https://img.shields.io/badge/Fork%20Devu%20Music-black?style=for-the-badge&logo=github"></a>
-</pre></p>
+<b><i>••DEPLOY TO HEROKU••</i></b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Xdarnav/ArnavXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="200""/></a></p>
+</pre>
 
+## 🌀 ᴡᴏʀᴋFʟᴏᴡs 
+<pre>
+</i>Click The Button Below
+ᴛᴏ ɪᴍᴘᴏʀᴛ ᴛʜɪs ᴄᴏᴅᴇ.ʜᴏᴡ ᴛᴏ
+ʜᴏsᴛ? sɪᴍᴘʟʏ ɪᴍᴘᴏʀᴛ ᴛʜɪs ᴄᴏᴅᴇ
+ᴛʜᴇɴ ғɪʟʟ ʏᴏᴜʀ ᴠᴀʀs In ᴄᴏɴғɪɢ.ᴘʏ
+ᴛʜᴇɴ ɢᴏ ᴛᴏ ᴀᴄᴛɪᴏɴs ᴀɴᴅ ᴄʜᴇᴄᴋ
+ʙᴜɪʟᴅ ʟᴏɢs ᴀɴᴅ ᴄʜᴇᴄᴋ
+build logs!</i>
 
-<h6><b><i><u>Here Devu Robot Which can handle Your group safely Nd play lag free Music too Check Out this too</u></i></b></h6>
-<p><a href='https://t.me/DEVU_ROBOT'><img src="https://img.shields.io/badge/Devu_Robot-black?style=for-the-badge&logo=telegram&logoColor=black"></a>
-<a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
+<p align="center"><a href="https://t.me/Arnavserver"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-yellow?style=for-the-badge&logo=github" width="200""/></a>
+</pre>
 
+## ♨️ ᴏᴋᴛᴇᴛᴏ ᴅᴇᴘʟʟᴏᴍᴇɴᴛ
 
-<p><code>##This Project Under</code> <pre> <a href="https://t.me/SILENT_DEVS"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
+<pre>
+</i>Click The Button Below
+ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ!</i>
+
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Xdarnav/ArnavXMusic"><img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴏᴋᴛᴇᴛᴏ-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+</pre>
+
+## ᴅᴇᴘʟᴏʏ ᴛᴏ Railway 🚄
+<pre>
+</i>ғᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ Railway ᴍᴀᴋᴇ
+ɴᴇᴄᴄᴇssᴏʀʏ ᴠᴀʀɪᴇʙʟᴇs ʜᴇʀᴇ 
+ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ғɪʟʟ ᴀɴᴅ ᴇɴᴊᴏʏ.</i>
+
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Xdarnav/ArnavXMusic&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20Railway-red?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+</pre>
+
+### 🧜‍♀️ ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ ✨
+<a href="https://telegram.me/link_copied"><img src="https://img.shields.io/badge/Join-Group%20Support-indigo.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/ilexupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+ • • • •━━༺ᴄʀᴇᴅɪᴛs༻━━ • • •
+<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-green?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
+<a href="https://github.com/Xdarnav"> <img src="https://img.shields.io/badge/Arnavsingh-purple?style=for-the-badge&logo=github" alt="Arnavsingh" /> </a>
+<a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-red?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
+<a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-indigo?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
+</p>
+
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ᴀɴᴅ ᴍʏ Sᴜᴘᴘᴏʀᴛɪɴɢ 🥀🦢 ɢʀᴏᴜᴘ [𖤓 ɪʟᴇx ᴡᴏʀʟᴅ 𖤓](https://t.me/link_copied)_ </b>
