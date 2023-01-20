@@ -38,7 +38,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-@sree.on_message(filters.command("ping") & filters.group)
+@sree.on_message(filters.command("ping", "بينج") & filters.group)
 async def ping(sree, m: Message):
     pythn = platform.python_version()
     uptime = get_readable_time((time.time() - StartTime))
