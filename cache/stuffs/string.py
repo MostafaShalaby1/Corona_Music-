@@ -41,7 +41,7 @@ t4 = """
 """
 
 
-t5 = """Hey {},\n\nSource Code Of {} \nIs Private So Use Dev Music Bot In Your Groups 😕!!"""
+t5 = """Hey {},\n\nSource Code Of {} \nIs Private So Use Corona Music Bot In Your Groups 😕!!"""
 
 
 ptxt1 = "<b><i>Pinging...</i></b>"
