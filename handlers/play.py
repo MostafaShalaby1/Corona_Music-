@@ -135,7 +135,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "『𝘿𝙀𝙑 ✘ 𝙈𝙐𝙎𝙄𝘾』 ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
+                        message.chat.id, "『𝘾𝙊𝙍𝙊𝙉𝘼 ✘ 𝙈𝙐𝙎𝙄𝘾』 ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
 
                 except UserAlreadyParticipant:
                     pass
@@ -165,7 +165,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/9350788513346feef5087.jpg"
+        thumb_name = "https://te.legra.ph/file/6a32b1bae4e2b10b944d3.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -175,10 +175,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ ʀsɴ🥀",
-                            url=f"https://t.me/STARS_RISING"),
+                            url=f"https://t.me/KING_COBRA_NETWORK"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/WE_RFRIENDS"),
+                            url=f"https://t.me/link_copied"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -219,10 +219,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ ʀsɴ🥀",
-                            url=f"https://t.me/STARS_RISING"),
+                            url=f"https://t.me/KING_COBRA_NETWORK"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/WE_RFRIENDS"),
+                            url=f"https://t.me/link_copied"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -232,7 +232,7 @@ async def play(_, message: Message):
     
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/9350788513346feef5087.jpg"
+            thumb_name = "https://te.legra.ph/file/6a32b1bae4e2b10b944d3.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -240,10 +240,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ ʀsɴ🥀",
-                            url=f"https://t.me/STARS_RISING"),
+                            url=f"https://t.me/KING_COBRA_NETWORK"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/WE_RFRIENDS"),
+                            url=f"https://t.me/link_copied"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -299,10 +299,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="ᴛᴇᴀᴍ ʀsɴ🥀",
-                            url=f"https://t.me/STARS_RISING"),
+                            url=f"https://t.me/KING_COBRA_NETWORK"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/WE_RFRIENDS"),
+                            url=f"https://t.me/link_copied"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -345,7 +345,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="**ɴᴏᴡ 『𝘿𝙀𝙑 ✘ 𝙈𝙐𝙎𝙄𝘾』ɪs ᴘʟᴀʏɪɴɢ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢ💖🧚‍♀️.\n\nᴘʟᴀʏɪɴɢ ᴀᴛ🧚‍♀️ :- `{}`...**\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {}".format(
+            caption="**ɴᴏᴡ 『𝘾𝙊𝙍𝙊𝙉𝘼 ✘ 𝙈𝙐𝙎𝙄𝘾』ɪs ᴘʟᴀʏɪɴɢ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢ💖🧚‍♀️.\n\nᴘʟᴀʏɪɴɢ ᴀᴛ🧚‍♀️ :- `{}`...**\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ: {}".format(
         message.chat.title, usrid
         ), )
         
