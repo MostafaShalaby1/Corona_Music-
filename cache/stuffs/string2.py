@@ -4,7 +4,7 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 button1 = [
     [
-        InlineKeyboardButton(text="🥀𝚄𝙿𝙳𝙰𝚃𝙴𝚂🥀", url=f"https://t.me/We_rfriends"),
+        InlineKeyboardButton(text="🥀𝚄𝙿𝙳𝙰𝚃𝙴𝚂🥀", url=f"https://t.me/KING_COBRA_NETWORK"),
         InlineKeyboardButton(text="💥𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙱𝚈💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
